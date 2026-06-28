@@ -1,5 +1,5 @@
 import Badge from "@/components/ui/Badge";
-import Button from "@/components/ui/Button";
+import Button from "@/components/ui/button";
 import Card from "@/components/ui/Card";
 import Container from "@/components/shared/Container";
 import Heading from "@/components/ui/Heading";
