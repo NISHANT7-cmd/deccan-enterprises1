@@ -7,21 +7,18 @@ export const navigation = [
     label: "About",
     href: "#about",
   },
+
   {
     label: "Products",
     href: "#products",
   },
   {
     label: "Why Choose Us",
-    href: "#why",
+    href: "#why-choose",
   },
   {
     label: "Testimonials",
-    href: "#testimonials",
-  },
-  {
-    label: "Gallery",
-    href: "#gallery",
+    href: "#testimonials"
   },
   {
     label: "FAQ",
