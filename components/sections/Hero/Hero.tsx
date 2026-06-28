@@ -1,6 +1,6 @@
 import Container from "@/components/shared/Container";
 import HeroBadge from "./HeroBadge";
-import HeroButtons from "./HeroButtons";
+import HeroButtons from "./herobuttons";
 import HeroImage from "./HeroImage";
 import HeroStats from "./HeroStats";
 import HeroBackground from "./HeroBackground";
