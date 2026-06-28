@@ -4,7 +4,7 @@ import {
   approveReview,
   rejectReview,
   deleteReview,
-} from "@/app/admin/actions";
+} from "@/app/admin/admins/actions";
 
 interface Props {
     review: any;
