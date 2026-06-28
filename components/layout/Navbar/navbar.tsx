@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Menu } from "lucide-react";
 import { navigation } from "@/constants/navigation";
-import Button from "@/components/ui/Button";
+import Button from "@/components/ui/button";
 import Logo from "./Logo";
 import AdminButton from "./AdminButton";
 import MobileNav from "@/components/layout/Navbar/MobileNav";
