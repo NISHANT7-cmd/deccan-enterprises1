@@ -4,7 +4,7 @@ import { useState } from "react";
 import {
   createCustomer,
   updateCustomer,
-} from "@/app/admin/customers/actions";
+} from "@/app/admin/admins/customers/actions";
 import type { Customer } from "@/types/customer";
 
 interface CustomerFormProps {
@@ -45,7 +45,7 @@ export default function CustomerForm({
         alert("Customer added successfully!");
       }
 
-      window.location.href = "/admin/customers";
+      window.location.href = "/admin/admins/customers";
     } catch (error) {
       console.error(error);
 
