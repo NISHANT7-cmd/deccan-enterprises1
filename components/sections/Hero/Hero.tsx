@@ -25,7 +25,7 @@ export default function Hero() {
         
       </div>
       <Container>
-        <div className="grid items-center gap-0 lg:grid-cols-2">
+        <div className="grid items-center gap-0 lg:grid-cols-1">
          <div>
   <FadeUp>
     <HeroBadge />
