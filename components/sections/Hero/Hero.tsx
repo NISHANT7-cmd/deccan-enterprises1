@@ -66,7 +66,7 @@ export default function Hero() {
 </div>
 
           <HeroBackground />
-          <HeroImage />
+        
           
 
           <HeroScrollIndicator />
