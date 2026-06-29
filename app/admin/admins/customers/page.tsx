@@ -10,7 +10,7 @@ export default function CustomersPage() {
         </h1>
 
         <Link
-          href="/admin/customers/new"
+          href="/admin/admins/customers/new"
           className="rounded-xl bg-[#005EB8] px-6 py-3 font-semibold text-white"
         >
           + Add Customer
