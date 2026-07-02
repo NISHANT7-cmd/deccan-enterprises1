@@ -25,7 +25,7 @@ export default function Hero() {
         
       </div>
       <Container>
-        <div >
+        <div className="text-center">
          <div>
   <FadeUp>
     <HeroBadge />
