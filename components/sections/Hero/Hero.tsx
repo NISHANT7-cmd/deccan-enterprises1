@@ -44,14 +44,14 @@ export default function Hero() {
 
 
   <FadeUp delay={0.2}>
-    <p className="mt-8 max-w-xl text-lg leading-8 text-slate-600">
+    <p className="mt-8 max-w-xl text-center leading-8 text-slate-600">
       Delivering premium surgical and medical products
       with competitive pricing, genuine brands and
       reliable delivery across Maharashtra.
     </p>
   </FadeUp>
   
-
+<div className="item-center">
   <FadeUp delay={0.3}>
     <HeroButtons />
   </FadeUp>
@@ -63,6 +63,7 @@ export default function Hero() {
   <FadeUp delay={0.5}>
     <HeroTrust/>
   </FadeUp>
+</div>
 </div>
 
           <HeroBackground />
