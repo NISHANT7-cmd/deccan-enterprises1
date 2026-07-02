@@ -42,7 +42,7 @@ export default function Hero() {
     </h1>
   </FadeUp>
 
-
+<div className="text-center">
   <FadeUp delay={0.2}>
     <p className="mt-8 max-w-xl text-center leading-8 text-slate-600">
       Delivering premium surgical and medical products
@@ -50,7 +50,7 @@ export default function Hero() {
       reliable delivery across Maharashtra.
     </p>
   </FadeUp>
-  
+</div>  
 <div className="item-center">
   <FadeUp delay={0.3}>
     <HeroButtons />
